@@ -724,3 +724,6 @@ MIT
 
 <!-- handsoff-issue-108 -->
 - #108: Test subscription payment failures leave no partial state
+
+<!-- handsoff-issue-109 -->
+- #109: Add storage migration coverage for subscription records
