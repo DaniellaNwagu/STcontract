@@ -721,3 +721,6 @@ MIT
 
 <!-- handsoff-issue-107 -->
 - #107: Emit events for subscription lifecycle changes
+
+<!-- handsoff-issue-108 -->
+- #108: Test subscription payment failures leave no partial state
