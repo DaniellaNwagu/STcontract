@@ -718,3 +718,6 @@ MIT
 
 <!-- handsoff-issue-106 -->
 - #106: Define subscription cancellation and refund behavior
+
+<!-- handsoff-issue-107 -->
+- #107: Emit events for subscription lifecycle changes
